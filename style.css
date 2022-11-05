@@ -36,6 +36,11 @@ li{
     gap: 16px;
 
 }
+
+.box_1_img{
+    padding: 16px;
+}
+
 /*box_1*/
 .box_1{
     display: flex;
